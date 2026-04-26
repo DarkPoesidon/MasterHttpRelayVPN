@@ -51,6 +51,7 @@ domainfront_certs_*/
 
 # Android / Gradle generated outputs
 Android/.gradle/
+Android/**/.gradle/
 Android/**/build/
 Android/**/local.properties
 
