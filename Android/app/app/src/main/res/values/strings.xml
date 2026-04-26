@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterHttpRelayVPN</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_connected">VPN connected</string>
+    <string name="status_disconnected">VPN disconnected</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="hint_deployment_id">Deployment ID</string>
+    <string name="hint_auth_password">Auth Password</string>
+    <string name="missing_fields">Deployment ID and Auth Password are required.</string>
+</resources>

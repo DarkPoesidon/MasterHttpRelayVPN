@@ -1,0 +1,1 @@
+# Phase 1 scaffold: no project-specific ProGuard rules yet.
